@@ -1,4 +1,4 @@
-import { FOOTER_MESSAGE } from "@/configuration/ui";
+import { Read more on Fierce Pharma or Cost Curve by Brian Reid } from "@/configuration/ui";
 import Link from "next/link";
 
 export default function ChatFooter() {
